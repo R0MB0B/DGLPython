@@ -154,19 +154,3 @@ fig=plt.figure()
 x=fig.add_subplot(121)
 x.hist(y)
 
-d
-
-
-
-
-
-
-
-    
-
-
-       
-
-
-
-
