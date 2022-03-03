@@ -96,7 +96,3 @@ class Board():
 
 jeu=Board(6,7,'Jaune')
 jeu.commencer()
-
-
-
-
